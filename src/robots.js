@@ -13,9 +13,9 @@ export const robots = [
     },
     {
       id: 3,
-      name: 'Clementine Bauch',
-      username: 'Samantha',
-      email: 'Nathan@yesenia.net'
+      name: 'Masood Siddique',
+      username: 'Mony',
+      email: 'nolife@life.com'
     },
     {
       id: 4,
