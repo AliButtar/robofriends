@@ -19,9 +19,9 @@ export const robots = [
     },
     {
       id: 4,
-      name: 'Patricia Lebsack',
-      username: 'Karianne',
-      email: 'Julianne.OConner@kory.org'
+      name: 'Talha Bin Mansoor',
+      username: 'Elvin Arrow',
+      email: 'tbm@tbm.com'
     },
     {
       id: 5,
