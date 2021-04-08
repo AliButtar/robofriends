@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Aquire';
-    src: url('./Fonts/AquireRegular.woff2') format('woff2'),
-        url('./Fonts/AquireRegular.woff') format('woff');
+    src: url('../Fonts/AquireRegular.woff2') format('woff2'),
+        url('../Fonts/AquireRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Polar Vertex';
-    src: url('./Fonts/PolarVertex-Regular.woff2') format('woff2'),
-        url('./Fonts/PolarVertex-Regular.woff') format('woff');
+    src: url('../Fonts/PolarVertex-Regular.woff2') format('woff2'),
+        url('../Fonts/PolarVertex-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;

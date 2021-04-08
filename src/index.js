@@ -1,7 +1,7 @@
 import React from 'react'; // THe view
 import ReactDOM from 'react-dom'; //Telling react where to render like web
 import './index.css'; //import individual CSS files
-import App from './App.js'
+import App from './containers/App.js'
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 

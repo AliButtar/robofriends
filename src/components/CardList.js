@@ -3,7 +3,7 @@ import Card from './Card.js';
 
 const CardList = (props)=> {
     const {robots} = props
-
+    
     return (
         <div>
             {

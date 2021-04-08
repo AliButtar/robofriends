@@ -25,15 +25,15 @@ export const robots = [
     },
     {
       id: 5,
-      name: 'Chelsey Dietrich',
-      username: 'Kamren',
-      email: 'Lucio_Hettinger@annie.ca'
+      name: 'Mansoor Amjad',
+      username: 'Mansoor0x01',
+      email: 'mansoor69@69.com'
     },
     {
       id: 6,
-      name: 'Mrs. Dennis Schulist',
-      username: 'Leopoldo_Corkery',
-      email: 'Karley_Dach@jasper.info'
+      name: 'Osama Saleem',
+      username: 'osaleem777',
+      email: 'osaleem@gmail.com'
     },
     {
       id: 7,
@@ -43,7 +43,7 @@ export const robots = [
     },
     {
       id: 8,
-      name: 'Nicholas Runolfsdottir V',
+      name: 'Nicholas Runolf',
       username: 'Maxime_Nienow',
       email: 'Sherwood@rosamond.me'
     },
